@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 May 2024 06:27:09 at https://preview.iwedding.info/?template=62ef3cdcf106ea77bb276cc5 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.iwedding.info/?template=62ef3cdcf106ea77bb276cc5 -O1 "E:\PROJECT\AuroraBirdthDay" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/css/owl.video.play.html (from https://preview.iwedding.info/templates/template17/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/css/fonts/lg.eot? (from https://preview.iwedding.info/templates/template17/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/img/vimeo-play.png (from https://preview.iwedding.info/templates/template17/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/img/video-play.png (from https://preview.iwedding.info/templates/template17/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/img/youtube-play.png (from https://preview.iwedding.info/templates/template17/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/images/page-title.jpg (from https://preview.iwedding.info/templates/template17/css/style.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/images/bg-2.html (from https://preview.iwedding.info/templates/template17/css/style.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/images/Single-title-shape2.html (from https://preview.iwedding.info/templates/template17/css/style.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/images/select-icon2.png (from https://preview.iwedding.info/templates/template17/css/style.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template17/images/offer.jpg (from https://preview.iwedding.info/templates/template17/css/style.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template19/css/webfonts/lg.eot? (from https://preview.iwedding.info/templates/template19/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template19/img/vimeo-play.png (from https://preview.iwedding.info/templates/template19/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template19/img/video-play.png (from https://preview.iwedding.info/templates/template19/css/libs.css?v=20240418)
+06:27:59	Error: 	"Not Found" (404) at link https://preview.iwedding.info/templates/template19/img/youtube-play.png (from https://preview.iwedding.info/templates/template19/css/libs.css?v=20240418)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 200 links scanned, 185 files written (22618652 bytes overall) [17696449 bytes received at 346989 bytes/sec], 8301553 bytes transferred using HTTP compression in 84 files, ratio 39%, 16.6 requests per connection
+(14 errors, 0 warnings, 0 messages)
